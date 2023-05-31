@@ -81,6 +81,9 @@ p{
     text-decoration:none;
   }
   
+  .saludo{
+    text-align: center;
+  }
   
   .nav-links {
     display: flex;
